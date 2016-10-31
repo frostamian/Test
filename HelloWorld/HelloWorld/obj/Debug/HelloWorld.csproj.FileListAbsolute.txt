@@ -5,6 +5,6 @@ C:\sources\Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\sources\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\sources\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\sources\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\sources\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdbB
+C:\sources\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdbA
 
 
